@@ -125,3 +125,5 @@ DataPull documentation is available at https://homeaway.github.io/datapull/ . To
 1. Create 2 PRs (one for forked repo branch that you updated, another for `gh-pages` branch) and we'll review and approve them.
 
 Thanks again, for helping make DataPull better!
+
+changed made by Ron
